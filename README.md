@@ -49,3 +49,17 @@ To create a modern Telegram userbot ecosystem that is fast, reliable, and contin
 * Creator of RynX Userbot
 
 *"Code with purpose, build without limits."*
+
+# Rynn Userbot
+
+A modern Telegram automation platform built with Python and Pyrogram.
+
+## Official Links
+
+- Documentation: https://youghvee.github.io/RynnDocs/
+- Documentation Repository: https://github.com/Youghvee/RynnDocs
+- Developer Profile: https://github.com/Youghvee
+
+## About
+
+Rynn Userbot is an advanced Telegram userbot developed by Yoshieki Ryn, focused on automation, customization, and performance.
